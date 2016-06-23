@@ -66,3 +66,34 @@ img.x80 {
     width:360px;
     margin-left:20px;
 }
+.partner {
+    text-align: center;
+    background-color: white;
+}
+
+.partner img {
+    height: 200px;
+}
+
+.roundbox {
+    border-radius: 0.3em;
+}
+.lightyellow {
+    background-color:yellow;
+    opacity:0.5;
+}
+.lightyellow h1, .lightyellow h2, .lightyellow h3, .lightyellow ul {
+    color: black;
+}
+.author {
+    display: table-cell;
+    width: 25%;
+    margin-right: 1em;
+}
+.author img {
+    height: 200px;
+}
+
+.table {
+    display: table;
+}
