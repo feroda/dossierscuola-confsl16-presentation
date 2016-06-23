@@ -60,3 +60,9 @@ img.x80 {
 .black-shadow{text-shadow:-1px -1px 1px #111,2px 2px 1px #000!important}
 .slide-background.force-bottom{bottom:auto!important}
 .slide-background.fullcover{background-size:contain}
+
+.img-right {
+    float:right;
+    width:360px;
+    margin-left:20px;
+}
